@@ -1,0 +1,3 @@
+Ссылка на документацию по командам работы с security group:
+
+https://docs.aws.amazon.com/cli/latest/reference/ec2/create-security-group.html
